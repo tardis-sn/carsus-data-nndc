@@ -1,0 +1,8 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+73,Kr,36,37,433.66,12,(9/2+),IT,100,,,,107 NS 10,1.07E-7,355 18,0,0,0,0,0,0,0,0,0,0,355 18,433.66 12,79 18,18 % 4,73Kr,g,,40.8,,,,3.0,6,0.00124,23
+73,Kr,36,37,433.66,12,(9/2+),IT,100,,,,107 NS 10,1.07E-7,355 18,0,0,0,0,0,0,0,0,0,0,355 18,433.66 12,79 18,18 % 4,73Kr,g,,65.8,,,,17.6,12,0.0116,8
+73,Kr,36,37,433.66,12,(9/2+),IT,100,,,,107 NS 10,1.07E-7,355 18,0,0,0,0,0,0,0,0,0,0,355 18,433.66 12,79 18,18 % 4,73Kr,g,,144.2,,,,22.4,19,0.032,3
+73,Kr,36,37,433.66,12,(9/2+),IT,100,,,,107 NS 10,1.07E-7,355 18,0,0,0,0,0,0,0,0,0,0,355 18,433.66 12,79 18,18 % 4,73Kr,g,,223.6,,,,39,3,0.086,6
+73,Kr,36,37,433.66,12,(9/2+),IT,100,,,,107 NS 10,1.07E-7,355 18,0,0,0,0,0,0,0,0,0,0,355 18,433.66 12,79 18,18 % 4,73Kr,g,,248.6,,,,1.6,5,0.0040,12
+73,Kr,36,37,433.66,12,(9/2+),IT,100,,,,107 NS 10,1.07E-7,355 18,0,0,0,0,0,0,0,0,0,0,355 18,433.66 12,79 18,18 % 4,73Kr,g,,367.8,,,,54,4,0.199,16
+73,Kr,36,37,433.66,12,(9/2+),IT,100,,,,107 NS 10,1.07E-7,355 18,0,0,0,0,0,0,0,0,0,0,355 18,433.66 12,79 18,18 % 4,73Kr,g,,392.8,,,,5.1,10,0.020,4

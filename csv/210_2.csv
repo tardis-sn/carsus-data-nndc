@@ -1,0 +1,7 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+214,Bi,83,131,0.0,,1-,A,0.0210,10,5621,3,19.9 M 4,1194.0,0,0,0,0,0,0,0,0.0214 7,0,0,1.15 4,1.17 4,1.18 6,0 AP,0 % AP,210Tl,a,,4941,,,,5.3E-5,11,2.6E-6,5
+214,Bi,83,131,0.0,,1-,A,0.0210,10,5621,3,19.9 M 4,1194.0,0,0,0,0,0,0,0,0.0214 7,0,0,1.15 4,1.17 4,1.18 6,0 AP,0 % AP,210Tl,a,,5023,,,,4.4E-5,9,2.2E-6,4
+214,Bi,83,131,0.0,,1-,A,0.0210,10,5621,3,19.9 M 4,1194.0,0,0,0,0,0,0,0,0.0214 7,0,0,1.15 4,1.17 4,1.18 6,0 AP,0 % AP,210Tl,a,,5184,,,,1.28E-4,14,6.6E-6,7
+214,Bi,83,131,0.0,,1-,A,0.0210,10,5621,3,19.9 M 4,1194.0,0,0,0,0,0,0,0,0.0214 7,0,0,1.15 4,1.17 4,1.18 6,0 AP,0 % AP,210Tl,a,,5273,9,,,0.00122,6,6.4E-5,3
+214,Bi,83,131,0.0,,1-,A,0.0210,10,5621,3,19.9 M 4,1194.0,0,0,0,0,0,0,0,0.0214 7,0,0,1.15 4,1.17 4,1.18 6,0 AP,0 % AP,210Tl,a,,5452,3,,,0.0113,5,6.2E-4,3
+214,Bi,83,131,0.0,,1-,A,0.0210,10,5621,3,19.9 M 4,1194.0,0,0,0,0,0,0,0,0.0214 7,0,0,1.15 4,1.17 4,1.18 6,0 AP,0 % AP,210Tl,a,,5516,3,,,0.0082,4,4.54E-4,22

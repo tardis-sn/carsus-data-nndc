@@ -1,0 +1,9 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,g,XR l,4.11,,,,8.6,4,3.52E-4,18
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,g,XR ka2,29.461,,,,21.1,5,0.00622,15
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,g,XR ka1,29.782,,,,38.9,9,0.0116,3
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,g,XR kb3,33.562,,,,3.64,8,0.00122,3
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,g,XR kb1,33.624,,,,7.02,16,0.00236,5
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,g,XR kb2,34.419,,,,2.13,5,7.32E-4,17
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,e,Auger L,3.43,,,,79.7,5,0.002732,18
+131,Cs,55,76,0.0,,5/2+,EC,100,,355,5,9.689 D 16,837129.6,0,22.5 3,0,0,0,5.03 10,325 4,0,0,0,0,353 4,355 5,0 AP,0 % AP,131Xe,e,Auger K,24.6,,,,9.3,4,0.00230,10

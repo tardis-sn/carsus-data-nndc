@@ -1,0 +1,8 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+49,V,23,26,0.0,,7/2-,EC,100,,601.9,8,330 D 15,2.8512E7,0,0.87 3,0,0,0,3.387 18,597.4 7,0,0,0,0,601.7 7,601.9 8,0 AP,0 % AP,49Ti,g,XR l,0.45,,,,0.31,10,1.4E-6,5
+49,V,23,26,0.0,,7/2-,EC,100,,601.9,8,330 D 15,2.8512E7,0,0.87 3,0,0,0,3.387 18,597.4 7,0,0,0,0,601.7 7,601.9 8,0 AP,0 % AP,49Ti,g,XR ka2,4.505,,,,5.7,3,2.57E-4,12
+49,V,23,26,0.0,,7/2-,EC,100,,601.9,8,330 D 15,2.8512E7,0,0.87 3,0,0,0,3.387 18,597.4 7,0,0,0,0,601.7 7,601.9 8,0 AP,0 % AP,49Ti,g,XR ka1,4.511,,,,11.4,5,5.15E-4,24
+49,V,23,26,0.0,,7/2-,EC,100,,601.9,8,330 D 15,2.8512E7,0,0.87 3,0,0,0,3.387 18,597.4 7,0,0,0,0,601.7 7,601.9 8,0 AP,0 % AP,49Ti,g,XR kb1,4.932,,,,1.27,5,6.2E-5,3
+49,V,23,26,0.0,,7/2-,EC,100,,601.9,8,330 D 15,2.8512E7,0,0.87 3,0,0,0,3.387 18,597.4 7,0,0,0,0,601.7 7,601.9 8,0 AP,0 % AP,49Ti,g,XR kb3,4.932,,,,0.64,3,3.17E-5,13
+49,V,23,26,0.0,,7/2-,EC,100,,601.9,8,330 D 15,2.8512E7,0,0.87 3,0,0,0,3.387 18,597.4 7,0,0,0,0,601.7 7,601.9 8,0 AP,0 % AP,49Ti,e,Auger L,0.42,,,,148.7,5,6.246E-4,19
+49,V,23,26,0.0,,7/2-,EC,100,,601.9,8,330 D 15,2.8512E7,0,0.87 3,0,0,0,3.387 18,597.4 7,0,0,0,0,601.7 7,601.9 8,0 AP,0 % AP,49Ti,e,Auger K,4.0,,,,69.1,4,0.002763,18

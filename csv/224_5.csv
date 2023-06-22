@@ -1,0 +1,9 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,g,,98,,,,2.1,3,0.0020,3
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,g,,152,3,,,0.20,5,3.0E-4,7
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,g,,187,3,,,0.29,10,5.5E-4,18
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,g,,246,3,,,0.39,10,9.6E-4,24
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,a,,6409,,,,0.55,20,0.035,13
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,a,,6442,,,,0.64,11,0.041,7
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,a,,6590,10,,,28,4,1.9,3
+228,U,92,136,0,,0+,A,97.5,25,6800,9,9.1 M 2,546.0,3.8 4,0,0,0,0,0,0,114 7,0,0,6.5E+3 4,6.6E+3 4,6.63E+3 17,0 AP,0 % AP,224Th,a,,6680,10,,,68,4,4.6,3

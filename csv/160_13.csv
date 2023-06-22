@@ -1,0 +1,7 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+160,Tm,69,91,70,20,5,IT,85,5,,,74.5 S 15,74.5,26.49 24,1.03 18,0,0,26 4,2.76 14,0,0,0,0,0,56 4,60 17,0 AP,0 % AP,160Tm,g,XR l,7.18,,,,14.3,25,0.00103,18
+160,Tm,69,91,70,20,5,IT,85,5,,,74.5 S 15,74.5,26.49 24,1.03 18,0,0,26 4,2.76 14,0,0,0,0,0,56 4,60 17,0 AP,0 % AP,160Tm,g,,28.85,,,,85,,0.0245,
+160,Tm,69,91,70,20,5,IT,85,5,,,74.5 S 15,74.5,26.49 24,1.03 18,0,0,26 4,2.76 14,0,0,0,0,0,56 4,60 17,0 AP,0 % AP,160Tm,g,,42.02,10,,,4.7,6,0.00196,24
+160,Tm,69,91,70,20,5,IT,85,5,,,74.5 S 15,74.5,26.49 24,1.03 18,0,0,26 4,2.76 14,0,0,0,0,0,56 4,60 17,0 AP,0 % AP,160Tm,e,Auger L,5.67,,,,48.6,25,0.00276,14
+160,Tm,69,91,70,20,5,IT,85,5,,,74.5 S 15,74.5,26.49 24,1.03 18,0,0,26 4,2.76 14,0,0,0,0,0,56 4,60 17,0 AP,0 % AP,160Tm,e,CE L,31.90,10,,,63,11,0.020,3
+160,Tm,69,91,70,20,5,IT,85,5,,,74.5 S 15,74.5,26.49 24,1.03 18,0,0,26 4,2.76 14,0,0,0,0,0,56 4,60 17,0 AP,0 % AP,160Tm,e,CE M,39.71,10,,,15,3,0.0060,11

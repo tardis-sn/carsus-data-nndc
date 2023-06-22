@@ -1,0 +1,6 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+56,Sc,21,35,775.1,4,(4+),IT,100,,,,0.29 US 2,2.9E-7,7.7E+2 8,0,0,0,0,0,0,0,0,0,0,7.7E+2 8,775.1 4,0 AP,0 % AP,56Sc,g,,47.7,3,,,54,16,0.026,7
+56,Sc,21,35,775.1,4,(4+),IT,100,,,,0.29 US 2,2.9E-7,7.7E+2 8,0,0,0,0,0,0,0,0,0,0,7.7E+2 8,775.1 4,0 AP,0 % AP,56Sc,g,,140.5,3,,,38,10,0.053,14
+56,Sc,21,35,775.1,4,(4+),IT,100,,,,0.29 US 2,2.9E-7,7.7E+2 8,0,0,0,0,0,0,0,0,0,0,7.7E+2 8,775.1 4,0 AP,0 % AP,56Sc,g,,187.8,3,,,38,11,0.071,20
+56,Sc,21,35,775.1,4,(4+),IT,100,,,,0.29 US 2,2.9E-7,7.7E+2 8,0,0,0,0,0,0,0,0,0,0,7.7E+2 8,775.1 4,0 AP,0 % AP,56Sc,g,,587.3,3,,,78,12,0.46,7
+56,Sc,21,35,775.1,4,(4+),IT,100,,,,0.29 US 2,2.9E-7,7.7E+2 8,0,0,0,0,0,0,0,0,0,0,7.7E+2 8,775.1 4,0 AP,0 % AP,56Sc,g,,727.3,4,,,22,4,0.16,3

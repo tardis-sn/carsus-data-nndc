@@ -1,0 +1,7 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+69,Zn,30,39,0,,1/2-,B-,100,,910.2,15,56.4 M 9,3384.0,0.0060 9,0,321.6 13,0,0,0,588.6 20,0,0,0,0,910.2 24,910.2 15,0 AP,0 % AP,69Ga,g,,318.4,2,,,0.00120,20,3.8E-6,6
+69,Zn,30,39,0,,1/2-,B-,100,,910.2,15,56.4 M 9,3384.0,0.0060 9,0,321.6 13,0,0,0,588.6 20,0,0,0,0,910.2 24,910.2 15,0 AP,0 % AP,69Ga,g,,871.7,2,,,2.5E-4,8,2.2E-6,7
+69,Zn,30,39,0,,1/2-,B-,100,,910.2,15,56.4 M 9,3384.0,0.0060 9,0,321.6 13,0,0,0,588.6 20,0,0,0,0,910.2 24,910.2 15,0 AP,0 % AP,69Ga,bm,,8.7,8,38.5,15,2.5E-4,8,2.2E-8,7
+69,Zn,30,39,0,,1/2-,B-,100,,910.2,15,56.4 M 9,3384.0,0.0060 9,0,321.6 13,0,0,0,588.6 20,0,0,0,0,910.2 24,910.2 15,0 AP,0 % AP,69Ga,bm,,193.3,12,591.8,15,0.00120,20,2.3E-6,4
+69,Zn,30,39,0,,1/2-,B-,100,,910.2,15,56.4 M 9,3384.0,0.0060 9,0,321.6 13,0,0,0,588.6 20,0,0,0,0,910.2 24,910.2 15,0 AP,0 % AP,69Ga,bm,,321.6,13,910.2,15,99.99860,20,0.3216,13
+69,Zn,30,39,0,,1/2-,B-,100,,910.2,15,56.4 M 9,3384.0,0.0060 9,0,321.6 13,0,0,0,588.6 20,0,0,0,0,910.2 24,910.2 15,0 AP,0 % AP,69Ga,bm av,,321.6,13,,,100.0000,3,0.3216,13

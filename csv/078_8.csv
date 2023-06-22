@@ -1,0 +1,6 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+78,Ge,32,46,0.0,,0+,B-,100,,955,10,88 M 1,5280.0,278.1 23,0,227 5,0,0,0,450 12,0,0,0,0,955 13,955 10,0 AP,0 % AP,78As,g,,277.3,3,,,96.0,,0.266,
+78,Ge,32,46,0.0,,0+,B-,100,,955,10,88 M 1,5280.0,278.1 23,0,227 5,0,0,0,450 12,0,0,0,0,955 13,955 10,0 AP,0 % AP,78As,g,,293.9,5,,,4.0,8,0.0119,23
+78,Ge,32,46,0.0,,0+,B-,100,,955,10,88 M 1,5280.0,278.1 23,0,227 5,0,0,0,450 12,0,0,0,0,955 13,955 10,0 AP,0 % AP,78As,bm,,220.8,40,661,10,4.0,10,0.0088,22
+78,Ge,32,46,0.0,,0+,B-,100,,955,10,88 M 1,5280.0,278.1 23,0,227 5,0,0,0,450 12,0,0,0,0,955 13,955 10,0 AP,0 % AP,78As,bm,,227.4,40,678,10,96.0,10,0.218,4
+78,Ge,32,46,0.0,,0+,B-,100,,955,10,88 M 1,5280.0,278.1 23,0,227 5,0,0,0,450 12,0,0,0,0,955 13,955 10,0 AP,0 % AP,78As,bm av,,227,6,,,100.0,14,0.227,7

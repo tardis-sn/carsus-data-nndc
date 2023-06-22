@@ -1,0 +1,6 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+69,Ni,28,41,321,2,(1/2-),B-,100,,5758,4,3.5 S 4,3.5,960.446,0,2.3E+3 3,0,0,0,2.9E+3 4,0,0,0,0,6.2E+3 5,6079 4,0 AP,0 % AP,69Cu,g,,1297.9,1,,,74,,0.96,
+69,Ni,28,41,321,2,(1/2-),B-,100,,5758,4,3.5 S 4,3.5,960.446,0,2.3E+3 3,0,0,0,2.9E+3 4,0,0,0,0,6.2E+3 5,6079 4,0 AP,0 % AP,69Cu,bm,,2143.5,22,4781,4,74,9,1.59,19
+69,Ni,28,41,321,2,(1/2-),B-,100,,5758,4,3.5 S 4,3.5,960.446,0,2.3E+3 3,0,0,0,2.9E+3 4,0,0,0,0,6.2E+3 5,6079 4,0 AP,0 % AP,69Cu,bm,,2234.7,22,4969,4,1.5,15,0.03,3
+69,Ni,28,41,321,2,(1/2-),B-,100,,5758,4,3.5 S 4,3.5,960.446,0,2.3E+3 3,0,0,0,2.9E+3 4,0,0,0,0,6.2E+3 5,6079 4,0 AP,0 % AP,69Cu,bm,,2774.8,22,6079,4,26,9,0.72,25
+69,Ni,28,41,321,2,(1/2-),B-,100,,5758,4,3.5 S 4,3.5,960.446,0,2.3E+3 3,0,0,0,2.9E+3 4,0,0,0,0,6.2E+3 5,6079 4,0 AP,0 % AP,69Cu,bm av,,2.3E+3,4,,,102,13,2.3,5

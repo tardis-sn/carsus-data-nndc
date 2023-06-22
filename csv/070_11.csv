@@ -1,0 +1,8 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+70,Ga,31,39,0.0,,1+,EC,0.41,5,654.6,16,21.14 M 3,1268.4,0,0.0150 13,0,0,0,0.0191 18,2.6 3,0,0,0,0,2.7 3,2.7 3,0 AP,0 % AP,70Zn,g,XR l,1.01,,,,0.0056,7,5.7E-8,7
+70,Ga,31,39,0.0,,1+,EC,0.41,5,654.6,16,21.14 M 3,1268.4,0,0.0150 13,0,0,0,0.0191 18,2.6 3,0,0,0,0,2.7 3,2.7 3,0 AP,0 % AP,70Zn,g,XR ka2,8.616,,,,0.052,7,4.5E-6,6
+70,Ga,31,39,0.0,,1+,EC,0.41,5,654.6,16,21.14 M 3,1268.4,0,0.0150 13,0,0,0,0.0191 18,2.6 3,0,0,0,0,2.7 3,2.7 3,0 AP,0 % AP,70Zn,g,XR ka1,8.639,,,,0.101,13,8.8E-6,11
+70,Ga,31,39,0.0,,1+,EC,0.41,5,654.6,16,21.14 M 3,1268.4,0,0.0150 13,0,0,0,0.0191 18,2.6 3,0,0,0,0,2.7 3,2.7 3,0 AP,0 % AP,70Zn,g,XR kb1,9.572,,,,0.0123,16,1.17E-6,15
+70,Ga,31,39,0.0,,1+,EC,0.41,5,654.6,16,21.14 M 3,1268.4,0,0.0150 13,0,0,0,0.0191 18,2.6 3,0,0,0,0,2.7 3,2.7 3,0 AP,0 % AP,70Zn,g,XR kb3,9.572,,,,0.0063,8,6.0E-7,8
+70,Ga,31,39,0.0,,1+,EC,0.41,5,654.6,16,21.14 M 3,1268.4,0,0.0150 13,0,0,0,0.0191 18,2.6 3,0,0,0,0,2.7 3,2.7 3,0 AP,0 % AP,70Zn,e,Auger L,0.99,,,,0.52,6,5.1E-6,6
+70,Ga,31,39,0.0,,1+,EC,0.41,5,654.6,16,21.14 M 3,1268.4,0,0.0150 13,0,0,0,0.0191 18,2.6 3,0,0,0,0,2.7 3,2.7 3,0 AP,0 % AP,70Zn,e,Auger K,7.53,,,,0.186,23,1.40E-5,17

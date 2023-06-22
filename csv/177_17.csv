@@ -1,0 +1,5 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+181,Tl,81,100,835.9,4,(9/2-),A,0.40,6,6321,6,1.40 MS 3,0.0014,0.58 10,0,0,0,0,0,0,0.58 8,0,0,26 4,28 4,29 4,0 AP,0 % AP,177Au,g,,241.5,3,,,0.24,4,5.8E-4,10
+181,Tl,81,100,835.9,4,(9/2-),A,0.40,6,6321,6,1.40 MS 3,0.0014,0.58 10,0,0,0,0,0,0,0.58 8,0,0,26 4,28 4,29 4,0 AP,0 % AP,177Au,a,,6578,7,,,0.38,6,0.025,4
+181,Tl,81,100,835.9,4,(9/2-),A,0.40,6,6321,6,1.40 MS 3,0.0014,0.58 10,0,0,0,0,0,0,0.58 8,0,0,26 4,28 4,29 4,0 AP,0 % AP,177Au,a,,6818,15,,,0.006,3,3.8E-4,20
+181,Tl,81,100,835.9,4,(9/2-),A,0.40,6,6321,6,1.40 MS 3,0.0014,0.58 10,0,0,0,0,0,0,0.58 8,0,0,26 4,28 4,29 4,0 AP,0 % AP,177Au,a,,6974,15,,,0.010,3,7.3E-4,22

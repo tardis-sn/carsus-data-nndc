@@ -1,0 +1,4 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+209,Ra,88,121,0.0,,5/2-,A,100,10,7143.1,27,4.8 S 2,4.8,0,0,0,0,0,0,0,134.0256,0,0,7002.835,7136.861,7.1E+3 7,0 AP,0 % AP,205Rn,a,,6376,10,,,0.200,,0.0128,
+209,Ra,88,121,0.0,,5/2-,A,100,10,7143.1,27,4.8 S 2,4.8,0,0,0,0,0,0,0,134.0256,0,0,7002.835,7136.861,7.1E+3 7,0 AP,0 % AP,205Rn,a,,6625,5,,,0.50,,0.033,
+209,Ra,88,121,0.0,,5/2-,A,100,10,7143.1,27,4.8 S 2,4.8,0,0,0,0,0,0,0,134.0256,0,0,7002.835,7136.861,7.1E+3 7,0 AP,0 % AP,205Rn,a,,7006,3,,,99,,7.0,

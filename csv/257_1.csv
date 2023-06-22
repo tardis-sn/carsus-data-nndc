@@ -1,0 +1,9 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,g,XR l,16.4,,,,21,16,0.003,3
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,g,XR ka2,115.285,,,,9,9,0.010,10
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,g,XR ka1,121.058,,,,13,13,0.016,16
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,g,XR kb3,135.15,,,,1.7,17,0.0024,24
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,g,XR kb1,136.521,,,,3,3,0.004,4
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,g,XR kb2,140.362,,,,1.3,13,0.0018,18
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,e,Auger L,11.6,,,,16,13,0.0019,15
+257,Md,101,156,0.0,,(7/2-),EC,85,3,407,6,5.52 H 5,19872.0,0,39 20,0,0,0,2.6 17,1.6E+2 10,0,0,0,0,2.0E+2 10,346 13,1.5E+2 10,4.E+1 % 3,257Fm,e,Auger K,87.5,,,,0.8,8,7.E-4,7

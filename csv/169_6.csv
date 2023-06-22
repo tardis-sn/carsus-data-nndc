@@ -1,0 +1,8 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+169,Lu,71,98,29.0,5,1/2-,IT,100,,,,160 S 10,160.0,3.1E-4 4,1.4 3,0,0,21 3,3.26 20,0,0,0,0,0,25 3,29.0 5,4 3,13 % 10,169Lu,g,XR l,7.66,,,,18,3,0.0014,3
+169,Lu,71,98,29.0,5,1/2-,IT,100,,,,160 S 10,160.0,3.1E-4 4,1.4 3,0,0,21 3,3.26 20,0,0,0,0,0,25 3,29.0 5,4 3,13 % 10,169Lu,g,,29.0,5,,,0.00106,12,3.1E-7,4
+169,Lu,71,98,29.0,5,1/2-,IT,100,,,,160 S 10,160.0,3.1E-4 4,1.4 3,0,0,21 3,3.26 20,0,0,0,0,0,25 3,29.0 5,4 3,13 % 10,169Lu,e,Auger L,6.02,,,,54,3,0.00326,20
+169,Lu,71,98,29.0,5,1/2-,IT,100,,,,160 S 10,160.0,3.1E-4 4,1.4 3,0,0,21 3,3.26 20,0,0,0,0,0,25 3,29.0 5,4 3,13 % 10,169Lu,e,CE L,18.1,5,,,72,13,0.0131,24
+169,Lu,71,98,29.0,5,1/2-,IT,100,,,,160 S 10,160.0,3.1E-4 4,1.4 3,0,0,21 3,3.26 20,0,0,0,0,0,25 3,29.0 5,4 3,13 % 10,169Lu,e,CE M,26.5,5,,,22,5,0.0058,13
+169,Lu,71,98,29.0,5,1/2-,IT,100,,,,160 S 10,160.0,3.1E-4 4,1.4 3,0,0,21 3,3.26 20,0,0,0,0,0,25 3,29.0 5,4 3,13 % 10,169Lu,e,CE N,28.5,5,,,5.2,12,0.0015,3
+169,Lu,71,98,29.0,5,1/2-,IT,100,,,,160 S 10,160.0,3.1E-4 4,1.4 3,0,0,21 3,3.26 20,0,0,0,0,0,25 3,29.0 5,4 3,13 % 10,169Lu,e,CE O,29.0,5,,,0.58,13,1.7E-4,4

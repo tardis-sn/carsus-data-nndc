@@ -1,0 +1,7 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+53,Fe,26,27,3040.4,3,19/2-,IT,100,,,,2.54 M 2,152.4,3.05E+3 19,0,0,0,0,0,0,0,0,0,0,3.05E+3 19,3040.4 3,0 AP,0 % AP,53Fe,g,,701.1,1,,,100,,0.70,
+53,Fe,26,27,3040.4,3,19/2-,IT,100,,,,2.54 M 2,152.4,3.05E+3 19,0,0,0,0,0,0,0,0,0,0,3.05E+3 19,3040.4 3,0 AP,0 % AP,53Fe,g,,1011.5,1,,,86,11,0.87,11
+53,Fe,26,27,3040.4,3,19/2-,IT,100,,,,2.54 M 2,152.4,3.05E+3 19,0,0,0,0,0,0,0,0,0,0,3.05E+3 19,3040.4 3,0 AP,0 % AP,53Fe,g,,1328.1,1,,,87,11,1.16,14
+53,Fe,26,27,3040.4,3,19/2-,IT,100,,,,2.54 M 2,152.4,3.05E+3 19,0,0,0,0,0,0,0,0,0,0,3.05E+3 19,3040.4 3,0 AP,0 % AP,53Fe,g,,1712.6,3,,,1.30,14,0.0223,25
+53,Fe,26,27,3040.4,3,19/2-,IT,100,,,,2.54 M 2,152.4,3.05E+3 19,0,0,0,0,0,0,0,0,0,0,3.05E+3 19,3040.4 3,0 AP,0 % AP,53Fe,g,,2339.7,1,,,13.0,23,0.30,5
+53,Fe,26,27,3040.4,3,19/2-,IT,100,,,,2.54 M 2,152.4,3.05E+3 19,0,0,0,0,0,0,0,0,0,0,3.05E+3 19,3040.4 3,0 AP,0 % AP,53Fe,g,,3040.6,5,,,0.060,11,0.0018,3

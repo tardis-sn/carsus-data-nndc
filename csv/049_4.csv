@@ -1,0 +1,7 @@
+A,Element,Z,N,Parent E(level),Uncertainty,JPi,Decay Mode,Decay Mode Value,Decay Mode Uncertainty,Q Value,Q Value Uncertainty,T1/2 (txt),T1/2 (sec),Gammas Balance,X-Rays Balance,B- Balance,B+ Balance,Conversion Electrons Balance,Auger Electrons Balance,Neutrinos Balance,Recoil Balance,Neutrons Balance, Protons Balance,Alphas Balance,Sum Balance,Q-effective Balance,Missing Energy Balance,Ratio Balance,Daughter,Radiation,Rad subtype,Rad Energy,Uncertainty, EP Energy,Uncertainty,Rad Intensity,Uncertainty,Dose,Uncertainty
+49,Sc,21,28,0.0,,7/2-,B-,100,,2006,4,57.18 M 13,3430.8,1.04 18,0,823.7 19,0,0,0,1181 4,0,0,0,0,2006 5,2006 4,0 AP,0 % AP,49Ti,g,,1622.6,6,,,0.010,3,1.6E-4,5
+49,Sc,21,28,0.0,,7/2-,B-,100,,2006,4,57.18 M 13,3430.8,1.04 18,0,823.7 19,0,0,0,1181 4,0,0,0,0,2006 5,2006 4,0 AP,0 % AP,49Ti,g,,1761.9,3,,,0.050,10,8.8E-4,18
+49,Sc,21,28,0.0,,7/2-,B-,100,,2006,4,57.18 M 13,3430.8,1.04 18,0,823.7 19,0,0,0,1181 4,0,0,0,0,2006 5,2006 4,0 AP,0 % AP,49Ti,bm,,72.6,14,244,4,0.050,10,3.6E-5,7
+49,Sc,21,28,0.0,,7/2-,B-,100,,2006,4,57.18 M 13,3430.8,1.04 18,0,823.7 19,0,0,0,1181 4,0,0,0,0,2006 5,2006 4,0 AP,0 % AP,49Ti,bm,,121.4,15,383,4,0.010,3,1.2E-5,4
+49,Sc,21,28,0.0,,7/2-,B-,100,,2006,4,57.18 M 13,3430.8,1.04 18,0,823.7 19,0,0,0,1181 4,0,0,0,0,2006 5,2006 4,0 AP,0 % AP,49Ti,bm,,824.1,19,2006,4,99.940,10,0.8236,19
+49,Sc,21,28,0.0,,7/2-,B-,100,,2006,4,57.18 M 13,3430.8,1.04 18,0,823.7 19,0,0,0,1181 4,0,0,0,0,2006 5,2006 4,0 AP,0 % AP,49Ti,bm av,,823.7,19,,,100.000,14,0.8237,19
